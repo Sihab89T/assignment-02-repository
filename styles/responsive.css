@@ -1,0 +1,102 @@
+@media screen and (max-width: 600px) {
+    .nav-container{
+        flex-direction: column;
+       padding-left: 40px;
+    }
+
+    .article{
+        flex-direction: column;
+    }
+
+    .article-text{
+        width: 400px;
+        padding-left: 40px;
+    }
+
+    .article-img{
+        width: 20%;
+    }
+
+    .banner2-article{
+        width: 500px;
+        padding-left: 20px;
+    }
+
+    .img-container{
+       width: 500px;
+
+    }
+    .img-column1{
+        flex-direction: column;
+    }
+    .img-column2{
+        flex-direction: column;
+    }
+
+    .img-column3{
+        flex-direction: column;
+    }
+
+    .banner3{
+        width: 400px;
+        padding-left: 40px;
+    }
+
+    .banner3-column1{
+        flex-direction: column;
+    }
+
+    .card1{
+        width: 400px;
+        margin-left: 50px;
+    }
+
+    .card2{
+        width: 400px;
+        margin-left: 50px;
+    }
+
+    .banner3-column2{
+        padding-right: 700px;
+    }
+    .card3{
+        width: 500px;
+        margin-left: 30px;
+    }
+
+    .banner4{
+        flex-direction: column;
+    }
+    .newsletter{
+        width: 400px;
+        margin-left: 30px;
+    }
+
+    .img{
+        width: 400px;
+        /* margin-left: 30px; */
+    }
+    .banner5{
+        /* flex-direction: column; */
+        width: 500px;
+        margin-left: 20px;
+    }
+
+    .sponsor-container{
+        flex-direction: column;
+    }
+    .sponsor-logo{
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .f-container{
+        flex-direction: column;
+        width: 500px;
+    }
+
+    .mid-line{
+        width: 400px;
+    }
+
+}  
